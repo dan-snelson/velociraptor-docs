@@ -439,7 +439,7 @@ on the system.
 
 After installation you can check the service's status with:
 - `ps -eaf | grep velo` or
-- `sudo launchctl print system/com/velocidex.velociraptor` or
+- `sudo launchctl print system/com.velocidex.velociraptor` or
 - Navigate to **Applications > Utilities > Activity Monitor** and search for
   Process Name `velociraptor`.
 
